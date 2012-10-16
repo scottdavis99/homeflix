@@ -1,0 +1,14 @@
+{
+  "name":"Homeflix",
+  "author":"Scott Davis",
+  "description":"Web app for viewing videos",
+  "version":"0.0.1",
+  "dependencies": {
+    "connect":"2.6.x"
+  },
+  "scripts":{
+    "start": "node app.js"
+  },
+  "engines":">=0.8.x",
+  "main":"app.js"
+}
